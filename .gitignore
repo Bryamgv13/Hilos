@@ -104,4 +104,4 @@ venv.bak/
 .mypy_cache/
 
 #Archivo de configuracion
-.ini
+*.ini
